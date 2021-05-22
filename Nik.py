@@ -1,8 +1,4 @@
-import tkinter as tk
-from tkinter import ttk
-from tkinter import messagebox as mess
 from PIL import Image,ImageTk
-import tkinter.simpledialog as tsd
 import cv2,os
 import csv
 import numpy as np
@@ -11,6 +7,10 @@ import pandas as pd
 import datetime
 import time
 import random
+import tkinter as tk
+from tkinter import ttk
+from tkinter import messagebox as mess
+import tkinter.simpledialog as tsd
 from tkinter import BOTH, END, LEFT
 from os import environ
 
