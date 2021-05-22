@@ -1,1 +1,1 @@
-worker: python Nik.py
+web: gunicorn Nik:app --log-file -
