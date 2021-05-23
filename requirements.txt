@@ -14,5 +14,5 @@ six==1.15.0
 toml==0.10.1
 wrapt==1.12.1
 tkinter==8.6
-os
-cv2
+
+
