@@ -1,3 +1,5 @@
+import matplotlib
+matplotlib.use('Agg')
 from PIL import Image,ImageTk
 import cv2,os
 import csv
